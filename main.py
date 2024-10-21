@@ -15,7 +15,7 @@ import wikipedia
 wikipedia.set_lang('uz')
 
 # Bot token
-TOKEN = '7230854776:AAF-CDojKFkudb65eMujOIsc8lXZHL5cDuY'
+TOKEN = 'botini apisini yozasanla'
 
 # Dispatcher yaratish
 dp = Dispatcher()
